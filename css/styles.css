@@ -235,3 +235,19 @@ h4{
 .texto-entrada span {
     color: #E08709;
 }
+
+/*** Testimoniales***/
+.testimoniales {
+    background-color: #71B100;
+    height: 35rem;
+    font-size: 2.4rem;
+    padding: 2rem;
+    color: #ffffff;
+    border-radius: 2rem;
+    
+}
+
+.testimoniales p {
+    text-align: right;
+}
+
